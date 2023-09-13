@@ -1,0 +1,9 @@
+#pictures{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+}
+a{
+    text-decoration: none;
+}
